@@ -34,7 +34,11 @@ module.exports = {
                 const pokenea_list = getDataFile(POKENEA_FILE_NAME)
                 const pokenea = getRandomItem(pokenea_list)
                 const { image, philosophical_phrase } = pokenea
-                res.render('pokenea', { image, philosophical_phrase })
+                res.render('pokenea', { 
+                    image, 
+                    philosophical_phrase,
+                    container_id: os.hostname()
+                })
             } catch (err) {
                 console.log(err)
                 res.send('INTERNAL SERVER ERROR').status(500)

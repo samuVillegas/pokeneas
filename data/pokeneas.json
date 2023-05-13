@@ -4,7 +4,7 @@
         "name": "Pikachu",
         "height": 0.4,
         "ability": "Static",
-        "image": "https://img.pokemondb.net/artwork/large/pikachu.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/pikachu.jpg",
         "philosophical_phrase": "The greatest obstacle in life is the lack of self-belief."
       },
       {
@@ -12,7 +12,7 @@
         "name": "Charmander",
         "height": 0.6,
         "ability": "Blaze",
-        "image": "https://img.pokemondb.net/artwork/large/charmander.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/charmander.jpg",
         "philosophical_phrase": "The journey of a thousand miles begins with one step."
       },
       {
@@ -20,7 +20,7 @@
         "name": "Squirtle",
         "height": 0.5,
         "ability": "Torrent",
-        "image": "https://img.pokemondb.net/artwork/large/squirtle.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/squirtle.jpg",
         "philosophical_phrase": "The key to success is to never give up, even when things get tough."
       },
       {
@@ -28,7 +28,7 @@
         "name": "Bulbasaur",
         "height": 0.7,
         "ability": "Overgrow",
-        "image": "https://img.pokemondb.net/artwork/large/bulbasaur.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/bulbasaur.jpg",
         "philosophical_phrase": "Change is the only constant in life."
       },
       {
@@ -36,7 +36,7 @@
         "name": "Jigglypuff",
         "height": 0.5,
         "ability": "Cute Charm",
-        "image": "https://img.pokemondb.net/artwork/large/jigglypuff.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/jigglypuff.jpg",
         "philosophical_phrase": "Beauty is not just in the eye of the beholder, but in the heart as well."
       },
       {
@@ -44,7 +44,7 @@
         "name": "Snorlax",
         "height": 2.1,
         "ability": "Thick Fat",
-        "image": "https://img.pokemondb.net/artwork/large/snorlax.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/snorlax.jpg",
         "philosophical_phrase": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time."
       },
       {
@@ -52,7 +52,7 @@
         "name": "Mewtwo",
         "height": 2.0,
         "ability": "Pressure",
-        "image": "https://img.pokemondb.net/artwork/large/mewtwo.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/mewtwo.jpg",
         "philosophical_phrase": "True strength lies not in physical power, but in mental fortitude."
       },
       {
@@ -60,7 +60,7 @@
         "name": "Eevee",
         "height": 0.3,
         "ability": "Adaptability",
-        "image": "https://img.pokemondb.net/artwork/large/eevee.jpg",
+        "image": "https://storage.googleapis.com/sdvillegab-pokeneas/eevee.jpg",
         "philosophical_phrase": "The path to true happiness is not always clear, but it is always worth pursuing."
       }
 ]
