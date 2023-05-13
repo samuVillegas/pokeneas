@@ -1,0 +1,67 @@
+ [
+      {
+        "id": 1,
+        "name": "Pikachu",
+        "height": 0.4,
+        "ability": "Static",
+        "image": "https://img.pokemondb.net/artwork/large/pikachu.jpg",
+        "philosophical_phrase": "The greatest obstacle in life is the lack of self-belief."
+      },
+      {
+        "id": 2,
+        "name": "Charmander",
+        "height": 0.6,
+        "ability": "Blaze",
+        "image": "https://img.pokemondb.net/artwork/large/charmander.jpg",
+        "philosophical_phrase": "The journey of a thousand miles begins with one step."
+      },
+      {
+        "id": 3,
+        "name": "Squirtle",
+        "height": 0.5,
+        "ability": "Torrent",
+        "image": "https://img.pokemondb.net/artwork/large/squirtle.jpg",
+        "philosophical_phrase": "The key to success is to never give up, even when things get tough."
+      },
+      {
+        "id": 4,
+        "name": "Bulbasaur",
+        "height": 0.7,
+        "ability": "Overgrow",
+        "image": "https://img.pokemondb.net/artwork/large/bulbasaur.jpg",
+        "philosophical_phrase": "Change is the only constant in life."
+      },
+      {
+        "id": 5,
+        "name": "Jigglypuff",
+        "height": 0.5,
+        "ability": "Cute Charm",
+        "image": "https://img.pokemondb.net/artwork/large/jigglypuff.jpg",
+        "philosophical_phrase": "Beauty is not just in the eye of the beholder, but in the heart as well."
+      },
+      {
+        "id": 6,
+        "name": "Snorlax",
+        "height": 2.1,
+        "ability": "Thick Fat",
+        "image": "https://img.pokemondb.net/artwork/large/snorlax.jpg",
+        "philosophical_phrase": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time."
+      },
+      {
+        "id": 7,
+        "name": "Mewtwo",
+        "height": 2.0,
+        "ability": "Pressure",
+        "image": "https://img.pokemondb.net/artwork/large/mewtwo.jpg",
+        "philosophical_phrase": "True strength lies not in physical power, but in mental fortitude."
+      },
+      {
+        "id": 8,
+        "name": "Eevee",
+        "height": 0.3,
+        "ability": "Adaptability",
+        "image": "https://img.pokemondb.net/artwork/large/eevee.jpg",
+        "philosophical_phrase": "The path to true happiness is not always clear, but it is always worth pursuing."
+      }
+]
+  
